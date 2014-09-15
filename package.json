@@ -12,6 +12,6 @@
     "license": "BSD",
     "readme": "README.md",
     "scripts": {
-        "compile": "echo 'not implemented yet'"
+        "compile": "zip hub.alfredworkflow -r ./*"
     }
 }
