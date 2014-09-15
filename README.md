@@ -3,6 +3,15 @@ alfred-workflow-hub
 
 alfred workflow for open github pages in browser
 
+## Install
+
+```
+npm run-script compile
+open hub.alfredworkflow
+```
+
+You may change the hotkeys in alfred
+
 ## Usage
 
 ```
