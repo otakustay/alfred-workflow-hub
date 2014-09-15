@@ -5,6 +5,10 @@ alfred workflow for open github pages in browser
 
 ## Install
 
+**YOU MUST HAVE NODEJS INSTALLED**
+
+The NodeJS should be installed as `/usr/local/bin/node`, this workflow assumes this environment
+
 ```
 npm run-script compile
 open hub.alfredworkflow
