@@ -1,6 +1,6 @@
 {
     "name": "alfred-workflow-hub",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "Browse github pages",
     "main": "main.js",
     "dependencies": {
