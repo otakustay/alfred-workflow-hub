@@ -1,0 +1,17 @@
+{
+    "name": "alfred-workflow-hub",
+    "version": "0.0.1",
+    "description": "Browse github pages",
+    "main": "main.js",
+    "dependencies": {
+        "alfredo": "0.2.x"
+    },
+    "author": "otakustay@gmail.com",
+    "homepage": "https://github.com/ecomfe/alfred-workflow-hub",
+    "repository": "https://github.com/ecomfe/alfred-workflow-hub",
+    "license": "BSD",
+    "readme": "README.md",
+    "scripts": {
+        "compile": "echo 'not implemented yet'"
+    }
+}
